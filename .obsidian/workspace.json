@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "8fe1ee5b54eba447",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd5982b5758411f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54041e9601a1eb11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "studies/01-type-system/기본 타입.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "기본 타입"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ecc3b1aeb91fb539",
+    "type": "split",
+    "children": [
+      {
+        "id": "19ee8c79e0b2a74c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "375960142077eae1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "2cce859622a562bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "2737ac48409f88d7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "138f9d5ccd7bb40a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f77b2a69e14dc59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f957fd9a3114e19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "studies/01-type-system/기본 타입.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "기본 타입 의 백링크"
+            }
+          },
+          {
+            "id": "1a543618cfcf2768",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "studies/01-type-system/기본 타입.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "기본 타입 의 나가는 링크"
+            }
+          },
+          {
+            "id": "93e82bf25ef5e425",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "bc2a4666d66b2836",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "65a440eeed0fac2d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "studies/01-type-system/기본 타입.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "기본 타입 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "54041e9601a1eb11",
+  "lastOpenFiles": [
+    "studies/01-type-system/main.exe",
+    "studies/01-type-system/s01.exe",
+    "build/s01.exe",
+    "studies/01-type-system/-o",
+    "studies/01-type-system/c++20",
+    "studies/01-type-system/-std",
+    "studies/01-type-system/g++",
+    "build/s01.exe;",
+    "build/s01_type_system.exe",
+    "build/CMakeFiles/cmake.check_cache",
+    "build/CMakeCache.txt",
+    "studies/01-type-system/type-system.md",
+    "studies/01-type-system/기본 타입.md"
+  ]
+}

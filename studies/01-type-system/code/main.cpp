@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cstdint>
 #include <type_traits>
 
 // lvalue: 식별자가 있고 주소를 취할 수 있는 식
