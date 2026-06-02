@@ -1,0 +1,2 @@
+add_executable(s11_special_members main.cpp)
+target_warnings(s11_special_members)
